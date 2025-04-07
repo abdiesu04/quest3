@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useRef } from 'react';
 
 const Partners: React.FC = () => {
   const partnersRef = useRef<HTMLDivElement>(null);
